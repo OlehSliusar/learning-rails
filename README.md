@@ -2,6 +2,8 @@
 
 > Learning something from scratch is almost always an arduous affair -- you simply have no idea as to where to start, or not to start, to kick things off. You don't have to worry about finding the best resources, sorting out the bad ones, and figuring out what to learn next. It's all here. Just follow it, step by step.
 
+![Ruby on Rails Image](http://insights.dice.com/wp-content/uploads/2013/07/RubyOnRails.png "Ruby on Rails")
+
 ## Table of Contents
 
 * [Curriculum](#curriculum)
@@ -37,18 +39,18 @@
 
 Path | Courses | Type
 :--: | :-- | :--:
-Ruby |[Try Ruby](http://tryruby.org/)| Web
-Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)| Web
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)| Web
+Ruby |[Try Ruby](http://tryruby.org/)| Interactive
+Ruby |[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)| Interactive
+HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)| Interactive
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Book
-Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)| Video
+Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)| Interactive & Video 
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)| Book & Video
 
 #### Additional
 Path | Courses | Type
 :--: | :-- | :--: | :--:
 JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)| Video
-Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)| Web
+Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)| Interactive
 Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Book
 Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Web
 
@@ -86,20 +88,14 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Book
 
 ## Other Courses
 Path | Courses | Level| Type |Access |Platform
-:--: | :-- | :--: | :--:|:--:|:--:
-Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Beginner|Web|Paid|CodeSchool
-Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Intermediate|Web|Paid|CodeSchool
-Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Intermediate|Web|Paid|CodeSchool
-Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Intermediate|Web|Paid|CodeSchool
-Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Advanced|Web|Paid|CodeSchool
-Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
-Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
-Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
+:--: | :--     | :--: | :--: |:--:   |:--:
+Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Paid|[CodeSchool](https://www.codeschool.com)
+Rails| [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
 Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
 Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html)|Beginner|Video|Paid|Lynda.com
-Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
+Ruby |[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
 Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
 
 
@@ -155,7 +151,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 :--: | :--: |
 Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
 Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
-Windows | [RailsInstaller](http://railsinstaller.org/en)|
+Windows | [RailsInstaller](http://railsinstaller.org/en) or use [Cloud9](https://c9.io)|
 
 #### Other methods
 |OS|Tutorial|

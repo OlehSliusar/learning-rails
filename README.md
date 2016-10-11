@@ -89,7 +89,8 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Book
 ## Other Courses
 Path | Courses | Level| Type |Access |Platform
 :--: | :--     | :--: | :--: |:--:   |:--:
-Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Paid|[CodeSchool](https://www.codeschool.com)
+Technical Sophistication|[Learn Enough to Be Dangerous](https://www.learnenough.com/web-development-fundamentals)|Begginer|Book & Video|Mostly Free|[Learn Enough](https://www.learnenough.com)
+Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Mostly Paid|[CodeSchool](https://www.codeschool.com)
 Rails| [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
@@ -165,46 +166,6 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
 - [Atom](http://www.atom.io)
-
-
-
-# Built with Rails
-
-1. [Twitter](https://twitter.com/)
-1. [Slideshare](http://www.slideshare.net/)
-1. [Github](https://github.com/)
-1. [Shopify](http://www.shopify.com/)
-1. [AirBnb](https://www.airbnb.com/)
-1. [Groupon](http://www.groupon.com/)
-1. [SoundCloud](https://soundcloud.com/)
-1. [Square](https://squareup.com/)
-1. [Heroku](https://www.heroku.com/)
-1. [Basecamp](https://basecamp.com/)
-1. [Yellow pages](http://www.yellowpages.com/)
-1. [Hulu](http://www.hulu.com/)
-1. [Urban Dictionary](http://www.urbandictionary.com/)
-1. [CrunchBase](https://www.crunchbase.com/)
-1. [Bloomberg](http://www.bloomberg.com/)
-1. [Zendesk](https://www.zendesk.com/)
-1. [Scribd](https://www.scribd.com/)
-1. [Bleacher Report](http://bleacherreport.com/)
-1. [500px](http://500px.com/)
-1. [Ask.fm](http://ask.fm/)
-1. [Dribbble](http://dribbble.com/)
-1. [Funny or Die](http://www.funnyordie.com/)
-1. [Goodreads](http://www.goodreads.com/)
-1. [Indiegogo](http://www.indiegogo.com/)
-1. [Kickstarter](http://www.kickstarter.com/)
-1. [LivingSocial](http://www.livingsocial.com/)
-1. [Lumosity](http://www.lumosity.com/)
-1. [MyFitnessPal](http://www.myfitnesspal.com/)
-1. [Pixlr](https://pixlr.com/)
-1. [Strava](https://www.strava.com/)
-1. [Twitch](http://twitch.tv/)
-1. [We Heart It](http://weheartit.com/)
-1. [Whitepages](http://www.whitepages.com/)
-1. [Yammer](https://www.yammer.com)
-1. [ThemeForest](http://themeforest.net/)
 
 
 # Learn with Code
@@ -308,6 +269,46 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 - [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
 
+
+# Built with Rails
+
+1. [Twitter](https://twitter.com/)
+1. [Slideshare](http://www.slideshare.net/)
+1. [Github](https://github.com/)
+1. [Shopify](http://www.shopify.com/)
+1. [AirBnb](https://www.airbnb.com/)
+1. [Groupon](http://www.groupon.com/)
+1. [SoundCloud](https://soundcloud.com/)
+1. [Square](https://squareup.com/)
+1. [Heroku](https://www.heroku.com/)
+1. [Basecamp](https://basecamp.com/)
+1. [Yellow pages](http://www.yellowpages.com/)
+1. [Hulu](http://www.hulu.com/)
+1. [Urban Dictionary](http://www.urbandictionary.com/)
+1. [CrunchBase](https://www.crunchbase.com/)
+1. [Bloomberg](http://www.bloomberg.com/)
+1. [Zendesk](https://www.zendesk.com/)
+1. [Scribd](https://www.scribd.com/)
+1. [Bleacher Report](http://bleacherreport.com/)
+1. [500px](http://500px.com/)
+1. [Ask.fm](http://ask.fm/)
+1. [Dribbble](http://dribbble.com/)
+1. [Funny or Die](http://www.funnyordie.com/)
+1. [Goodreads](http://www.goodreads.com/)
+1. [Indiegogo](http://www.indiegogo.com/)
+1. [Kickstarter](http://www.kickstarter.com/)
+1. [LivingSocial](http://www.livingsocial.com/)
+1. [Lumosity](http://www.lumosity.com/)
+1. [MyFitnessPal](http://www.myfitnesspal.com/)
+1. [Pixlr](https://pixlr.com/)
+1. [Strava](https://www.strava.com/)
+1. [Twitch](http://twitch.tv/)
+1. [We Heart It](http://weheartit.com/)
+1. [Whitepages](http://www.whitepages.com/)
+1. [Yammer](https://www.yammer.com)
+1. [ThemeForest](http://themeforest.net/)
+
+
 # How to Collaborate
 
-Send a [pull request](https://github.com/OlehSliusar/awesome-rails-learning/pulls) to add more useful links! After it, I'll update the list!
+Send a [pull request](https://github.com/OlehSliusar/awesome-rails-learning/pulls) to add more useful information.

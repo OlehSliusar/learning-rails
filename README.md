@@ -86,20 +86,14 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Book
 
 ## Other Courses
 Path | Courses | Level| Type |Access |Platform
-:--: | :-- | :--: | :--:|:--:|:--:
-Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Beginner|Web|Paid|CodeSchool
-Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Intermediate|Web|Paid|CodeSchool
-Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Intermediate|Web|Paid|CodeSchool
-Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Intermediate|Web|Paid|CodeSchool
-Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Advanced|Web|Paid|CodeSchool
-Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
-Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
-Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
+:--: | :--     | :--: | :--: |:--:   |:--:
+Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner-Advanced|Web|Paid|[CodeSchool](https://www.codeschool.com)
+Rails| [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
 Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
 Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html)|Beginner|Video|Paid|Lynda.com
-Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
+Ruby |[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
 Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
 
 

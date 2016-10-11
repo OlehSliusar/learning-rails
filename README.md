@@ -10,7 +10,6 @@
 * [Articles](#articles)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
-* [Built with Rails](#built-with-rails)
 * [Learn with Code](#learn-with-code)
 * [Videos](#videos)
 * [Help](#help)
@@ -23,6 +22,7 @@
 * [Style Guides](#style-guides)
 * [Third-party APIs](#third-party-apis)
 * [More Useful Links](#more-useful-links)
+* [Built with Rails](#built-with-rails)
 * [How to Collaborate](#how-to-collaborate)
 
 ---

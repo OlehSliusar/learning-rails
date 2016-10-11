@@ -37,18 +37,18 @@
 
 Path | Courses | Type
 :--: | :-- | :--:
-Ruby |[Try Ruby](http://tryruby.org/)| Web
-Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)| Web
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)| Web
+Ruby |[Try Ruby](http://tryruby.org/)| Interactive
+Ruby |[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)| Interactive
+HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)| Interactive
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Book
-Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)| Video
+Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)| Interactive & Video 
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)| Book & Video
 
 #### Additional
 Path | Courses | Type
 :--: | :-- | :--: | :--:
 JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)| Video
-Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)| Web
+Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)| Interactive
 Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Book
 Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Web
 

@@ -87,7 +87,8 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Book
 ## Other Courses
 Path | Courses | Level| Type |Access |Platform
 :--: | :--     | :--: | :--: |:--:   |:--:
-Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Paid|[CodeSchool](https://www.codeschool.com)
+Technical Sophistication|[Learn Enough to Be Dangerous](https://www.learnenough.com/web-development-fundamentals)|Begginer|Book & Video|Mostly Free|[Learn Enough](https://www.learnenough.com)
+Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Mostly Paid|[CodeSchool](https://www.codeschool.com)
 Rails| [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera

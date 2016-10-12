@@ -1,9 +1,9 @@
-# [Ruby on Rails ](http://rubyonrails.org/)
+# Learning Ruby on Rails
 
-> Learning something from scratch is almost always an arduous affair -- you simply have no idea as to where to start, or not to start, to kick things off. You don't have to worry about finding the best resources, sorting out the bad ones, and figuring out what to learn next. It's all here. Just follow it, step by step.
+> New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html)
 
 
-<div align="center" width="70">
+<div width="70">
   <img src="http://insights.dice.com/wp-content/uploads/2013/07/RubyOnRails.png">
 </div>
 
@@ -14,8 +14,6 @@
 * [Books](#books)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
-* [Install Rails](#install-rails)
-* [DevTools](#devtools)
 * [Learn with Code](#learn-with-code)
 * [Videos](#videos)
 * [Help](#help)
@@ -27,6 +25,8 @@
 * [Talks](#talks)
 * [Style Guides](#style-guides)
 * [Third-party APIs](#third-party-apis)
+* [Install Rails](#install-rails)
+* [DevTools](#devtools)
 * [More Useful Links](#more-useful-links)
 * [Built with Rails](#built-with-rails)
 * [How to Collaborate](#how-to-collaborate)
@@ -38,8 +38,9 @@
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
+- [Other Courses](#other-courses)
 
-# Beginner
+## Beginner
 
 Path | Courses | Type
 :--: | :-- | :--:
@@ -55,36 +56,35 @@ Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)
 #### Additional
 Path | Courses | Type
 :--: | :-- | :--: | :--:
-JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)| Video
 Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)| Interactive
+JavaScript|[Beginner JavaScript Tutorial](https://www.codeschool.com/courses/javascript-road-trip-part-1)| Interactive & Video
 Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Book
 Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Web
 
 
-
-# Intermediate
+## Intermediate
 
 Path | Courses | Type
 :--: | :-- | :--: | :--:
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Book
-Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Video
-Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Book
+Rails|[Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws)|Interactive & Video
+Rails|[Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)|Book
 Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Web
 
 #### Additional
 Path | Courses | Type
 :--: | :-- | :--: | :--:
-SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)|Video
-jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Video
-Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Book
+SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)|Interactive & Video
+jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Interactive & Video
+Rails | [The Rails 5 Way](https://leanpub.com/tr5w)|Book
 
 
-# Advanced
+## Advanced
 
 Path | Courses | Type
 :--: | :-- | :--: | :--:
 Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Book
-Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Book
+Ruby |[Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby)|Book
 Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Book
 
 #### Additional
@@ -93,19 +93,22 @@ Path | Courses | Type
 Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Book
 
 ## Other Courses
-Path | Courses | Level| Type |Access |Platform
+Path | Courses | Level| Type |Access |Founders
 :--: | :--     | :--: | :--: |:--:   |:--:
-Technical Sophistication|[Learn Enough to Be Dangerous](https://www.learnenough.com/web-development-fundamentals)|Begginer|Book & Video|Mostly Free|[Learn Enough](https://www.learnenough.com)
+Developer Fundamentals|[Learn Enough to Be Dangerous](https://www.learnenough.com/web-development-fundamentals)|Begginer|Book & Video|Mostly Free|[Learn Enough](https://www.learnenough.com/about)
+Ruby & Rails|[Learn Web Development for Free Using Ruby on Rails](http://www.theodinproject.com/)|Beginner - Intermediate|Curriculum|Free|[The Odin Project](http://www.theodinproject.com/about)
 Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Mostly Paid|[CodeSchool](https://www.codeschool.com)
-Rails| [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
-Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
-Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
-Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
-Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html)|Beginner|Video|Paid|Lynda.com
-Ruby |[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
-Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
-
-
+Ruby & Rails|[Online Programming Bootcamp for Serious Web Developers](http://launchschool.com/railstutorial)|Beginner - Intermediate|Bootcamp|Paid|[Launch School](https://launchschool.com/)
+Rails|[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|[One Month](https://onemonth.com/)
+Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|[Treehouse](https://teamtreehouse.com/)
+Rails|[Web Application Development: Basic Concepts](https://www.coursera.org/course/webapplications)|Beginner|Web|Mostly Free|[Coursera](https://www.coursera.org/)
+Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Mostly Paid|[Codecademy](https://www.codecademy.com/)
+Rails|[Rails Courses](https://mackenziechild.me/rails-courses/)|Begginer+|Video|Free|[Mackenzie Child](https://mackenziechild.me/)
+Rails|[Learn Rails Fundamentals](https://www.bloc.io/web-development-bootcamp)|Beginner|Bootcamp|Paid|[Bloc](https://www.bloc.io/)
+Rails|[Online Courses in Web Development](https://www.bloc.io/web-developer-career-track)|Beginner+|Bootcamp|Paid|[Bloc](https://www.bloc.io/)
+Ruby & Rails|[Top Developer Training](https://pragmaticstudio.com/refs/railstutorial)|Beginner - Intermediate|Video|Paid|[The Pragmatic Studio](https://pragmaticstudio.com/about)
+Ruby & Rails|[Online mentorship to advance your career](https://www.thinkful.com/a/railstutorial)|Beginner+|Mentorship|Paid|[Thinkful](https://www.thinkful.com/a/railstutorial)
+Ruby & Rails|[Firehose Project](http://www.thefirehoseproject.com/?tid=HARTL-RAILS-TUT-EB2&pid=HARTL-RAILS-TUT-EB2)|Beginner+|Mentorship|Paid|[Firehose](http://www.thefirehoseproject.com/?tid=HARTL-RAILS-TUT-EB2&pid=HARTL-RAILS-TUT-EB2)
 ---
 
 # Books
@@ -151,29 +154,6 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [24 Extremely Useful Ruby Gems for Web Development](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
-# Install Rails
-### Recommended
-
-|OS|Tutorial|
-:--: | :--: |
-Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
-Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
-Windows | [RailsInstaller](http://railsinstaller.org/en) or use [Cloud9](https://c9.io)|
-
-#### Other methods
-|OS|Tutorial|
-:--:|:--:|
-Mac | [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
-Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)
-
-# DevTools
-
-- [Sublime Text](http://www.sublimetext.com/)
-- [RubyMine](https://www.jetbrains.com/ruby/)
-- [Vim](http://www.vim.org/)
-- [Atom](http://www.atom.io)
-
-
 # Learn with Code
 
 1. [RailsApps Example Applications](http://railsapps.github.io/) - Code from the [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
@@ -185,6 +165,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # Videos
 
+* [Intro to Rails - Mackenzie Child](https://mackenziechild.me/intro-to-rails/)
 * [12 web apps in 12 weeks - Mackenzie Child](https://mackenziechild.me/12-in-12/)
 
 # Help
@@ -210,10 +191,10 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # Stay Up to Date
 
-- [@dhh](http://twitter.com/dhh): The creator of Ruby on Rails. Posts insight on new releases and various tips.
-- [@rbates](https://twitter.com/rbates): Producer of Railscasts, posts tips and tricks very often.
 - [@rails](https://twitter.com/rails): The official Ruby on Rails Twitter account. Follow them if you want insight on release dates, and development.
 - [@rails_apps](https://twitter.com/rails_apps): Daniel Kehoe is posting new Rails example apps pretty often, pretty useful.
+- [@dhh](http://twitter.com/dhh): The creator of Ruby on Rails. Posts insight on new releases and various tips.
+- [@rbates](https://twitter.com/rbates): Producer of Railscasts, posts tips and tricks very often.
 
 # Podcasts
 
@@ -229,7 +210,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # Slides
 
-1. [Testing Ruby with Rspec (a beginner's guide)](http://www.slideshare.net/vysakh0/testing-ruby-with-rspec-a-beginners-guide)
+- [Testing Ruby with Rspec (a beginner's guide)](http://www.slideshare.net/vysakh0/testing-ruby-with-rspec-a-beginners-guide)
 
 
 # Talks
@@ -270,6 +251,32 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 * [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
+
+---
+
+# Install Rails
+
+|Mac|
+:--:
+[Install Ruby on Rails 5.0](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)|
+[Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
+
+|Ubuntu Linux|
+:--:
+[Install Ruby on Rails 5.0](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)|
+[Setup Ruby On Rails on Ubuntu](https://gorails.com/setup/ubuntu/16.04) - [GoRails](https://gorails.com/)|
+
+|Windows|
+:--:
+[RailsInstaller](http://railsinstaller.org/en) or use [Cloud9](https://c9.io)|
+
+
+# DevTools
+
+- [Atom](http://www.atom.io)
+- [Sublime Text](http://www.sublimetext.com/)
+- [RubyMine](https://www.jetbrains.com/ruby/)
+- [Vim](http://www.vim.org/)
 
 # More Useful Links
 
@@ -317,4 +324,4 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # How to Collaborate
 
-Send a [pull request](https://github.com/OlehSliusar/awesome-rails-learning/pulls) to add more useful information.
+Send a pull request to add more useful information.

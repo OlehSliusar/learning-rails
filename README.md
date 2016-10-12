@@ -45,9 +45,11 @@ Path | Courses | Type
 :--: | :-- | :--:
 Ruby |[Try Ruby](http://tryruby.org/)| Interactive
 Ruby |[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)| Interactive
+Ruby|[Ruby - The Odin Project](http://www.theodinproject.com/ruby-programming) | Web
 HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)| Interactive
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Book
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)| Interactive & Video 
+Rails |[Rails - The Odin Project](http://www.theodinproject.com/ruby-on-rails)| Web
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)| Book & Video
 
 #### Additional

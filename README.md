@@ -3,7 +3,7 @@
 > Learning something from scratch is almost always an arduous affair -- you simply have no idea as to where to start, or not to start, to kick things off. You don't have to worry about finding the best resources, sorting out the bad ones, and figuring out what to learn next. It's all here. Just follow it, step by step.
 
 
-<div align="center" width="70">
+<div width="70">
   <img src="http://insights.dice.com/wp-content/uploads/2013/07/RubyOnRails.png">
 </div>
 

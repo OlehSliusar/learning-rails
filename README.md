@@ -317,4 +317,4 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # How to Collaborate
 
-Send a [pull request](https://github.com/OlehSliusar/awesome-rails-learning/pulls) to add more useful information.
+Send a pull request to add more useful information.

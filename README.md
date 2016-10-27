@@ -6,6 +6,10 @@
 ## Table of Contents
 
 * [Curriculum](#curriculum)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+    - [Advanced](#advanced)
+    - [Other Courses](#other-courses)
 * [Books](#books)
 * [Tutorials](#tutorials)
 * [Articles](#articles)

@@ -92,6 +92,7 @@ Path | Courses | Level| Type |Access |Founders
 :--: | :--     | :--: | :--: |:--:   |:--:
 Developer Fundamentals|[Learn Enough to Be Dangerous](https://www.learnenough.com/web-development-fundamentals)|Begginer|Book & Video|Mostly Free|[Learn Enough](https://www.learnenough.com/about)
 Ruby & Rails|[Learn Web Development for Free Using Ruby on Rails](http://www.theodinproject.com/)|Beginner - Intermediate|Curriculum|Free|[The Odin Project](http://www.theodinproject.com/about)
+Ruby & Rails|[Become a Web Developer](https://www.vikingcodeschool.com/)|Baginner+|Bootcamp & Curriculum|Mostly Paid|[Viking Code School](https://www.vikingcodeschool.com/team)
 Ruby & Rails|[Learn Ruby](https://www.codeschool.com/learn/ruby)|Beginner - Intermediate|Interactive & Video|Mostly Paid|[CodeSchool](https://www.codeschool.com)
 Ruby & Rails|[Online Programming Bootcamp for Serious Web Developers](http://launchschool.com/railstutorial)|Beginner - Intermediate|Bootcamp|Paid|[Launch School](https://launchschool.com/)
 Rails|[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|[One Month](https://onemonth.com/)

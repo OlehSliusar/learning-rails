@@ -24,7 +24,6 @@
 * [DevTools](#devtools)
 * [More Useful Links](#more-useful-links)
 * [Built with Rails](#built-with-rails)
-* [How to Collaborate](#how-to-collaborate)
 
 ---
 
@@ -317,7 +316,15 @@ Ruby & Rails|[Firehose Project](http://www.thefirehoseproject.com/?tid=HARTL-RAI
 1. [Yammer](https://www.yammer.com)
 1. [ThemeForest](http://themeforest.net/)
 
+---
 
-# How to Collaborate
+### License
 
-Send a pull request to add more useful information.
+<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Learning Ruby on Rails</span>), identified by <a href="http://olehsliusar.com/" rel="dct:publisher"><span property="dct:title">Oleh Sliusar</span></a>, is free of known copyright restrictions.
+</p>

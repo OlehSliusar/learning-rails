@@ -1,11 +1,6 @@
-# Learning Ruby on Rails
+# Learning Ruby on [<img src="http://rubyonrails.org/images/rails-logo.svg" width="140" alt="Rails">](http://rubyonrails.org/)
 
-> New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html)
-
-
-<div width="70">
-  <img src="http://insights.dice.com/wp-content/uploads/2013/07/RubyOnRails.png">
-</div>
+> New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html). 
 
 
 ## Table of Contents
@@ -102,7 +97,7 @@ Ruby & Rails|[Online Programming Bootcamp for Serious Web Developers](http://lau
 Rails|[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|[One Month](https://onemonth.com/)
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|[Treehouse](https://teamtreehouse.com/)
 Rails|[Web Application Development: Basic Concepts](https://www.coursera.org/course/webapplications)|Beginner|Web|Mostly Free|[Coursera](https://www.coursera.org/)
-Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Mostly Paid|[Codecademy](https://www.codecademy.com/)
+Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Interactive|Mostly Paid|[Codecademy](https://www.codecademy.com/)
 Rails|[Rails Courses](https://mackenziechild.me/rails-courses/)|Begginer+|Video|Free|[Mackenzie Child](https://mackenziechild.me/)
 Rails|[Learn Rails Fundamentals](https://www.bloc.io/web-development-bootcamp)|Beginner|Bootcamp|Paid|[Bloc](https://www.bloc.io/)
 Rails|[Online Courses in Web Development](https://www.bloc.io/web-developer-career-track)|Beginner+|Bootcamp|Paid|[Bloc](https://www.bloc.io/)

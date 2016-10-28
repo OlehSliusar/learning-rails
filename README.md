@@ -23,7 +23,6 @@
 * [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
-* [Slides](#slides)
 * [Talks](#talks)
 * [Style Guides](#style-guides)
 * [Third-party APIs](#third-party-apis)
@@ -188,12 +187,6 @@ Name | Access |From
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
 1. [GoRails](https://gorails.com/)
-
----
-
-## Slides
-
-- [Testing Ruby with Rspec (a beginner's guide)](http://www.slideshare.net/vysakh0/testing-ruby-with-rspec-a-beginners-guide)
 
 ---
 

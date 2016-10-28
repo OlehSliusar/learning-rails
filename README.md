@@ -244,19 +244,12 @@ Name | Access |From
 
 ## Install Rails
 
-|Mac|
-:--:
-[Install Ruby on Rails 5.0](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)|
-[Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
+* [Install Ruby on Rails 5.0](http://railsapps.github.io/installing-rails.html) by [RailsApps](http://railsapps.github.io/)
+* [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/)
+* [GoRails](https://gorails.com/setup)
+* [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) by [Matt Brictson](https://mattbrictson.com/)
 
-|Ubuntu Linux|
-:--:
-[Install Ruby on Rails 5.0](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)|
-[Setup Ruby On Rails on Ubuntu](https://gorails.com/setup/ubuntu/16.04) - [GoRails](https://gorails.com/)|
-
-|Windows|
-:--:
-[RailsInstaller](http://railsinstaller.org/en) or use [Cloud9](https://c9.io)|
+> If you've run into issues with your installation and are desperately looking for something else to try, take a deep breath first and go back over the instructions step-by-step to make sure you've followed them properly. You can run into some odd issues if you start trying to mix together different installation recommendations, because some of them use auto-installers and have you install things in slightly different places so you may end up with a couple copies of key components. It may work fine on the surface, but some day it'll probably come back and frustrate you again.
 
 ---
 

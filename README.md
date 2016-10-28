@@ -263,7 +263,9 @@ Name | Access |From
 ## DevTools
 
 - [Atom](http://www.atom.io)
+  - [Atom Documentation](https://atom.io/docs)
 - [Sublime Text](http://www.sublimetext.com/)
+  - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
   - [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)

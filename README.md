@@ -1,4 +1,4 @@
-# Learning Ruby on [<img src="http://rubyonrails.org/images/rails-logo.svg" width="140" alt="Rails">](http://rubyonrails.org/)
+# Learn Ruby on [<img src="http://rubyonrails.org/images/rails-logo.svg" width="140" alt="Rails">](http://rubyonrails.org/)
 
 > New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html). 
 

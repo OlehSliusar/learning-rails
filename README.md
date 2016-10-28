@@ -16,6 +16,7 @@
 * [Tutorials](#tutorials)
 * [Courses](#courses)
 * [Learn with Code](#learn-with-code)
+* [Code Challenges and Puzzles](#code-challenges-and-puzzles)
 * [Help](#help)
 * [Community](#community)
 * [News](#news)
@@ -130,6 +131,14 @@ Name | Access |From
 1. [Pinteresting](https://github.com/onemonthrails/pinteresting) - This is the pinteresting sample application for One Month Rails
 1. [MyRecipes](https://github.com/railsudemycourse/myrecipes) -A recipe app written in Ruby on Rails.
 1. [Learn Ruby with the Edgecase Ruby Koans][rk] by [Jim Weirich](https://twitter.com/jimweirich)
+
+---
+
+## Code Challenges and Puzzles
+
+* [HackerRank](https://www.hackerrank.com/domains/ruby)
+* [CodeWars](https://www.codewars.com/)
+* [Exercisme.io](http://exercism.io/languages/ruby)
 
 ---
 

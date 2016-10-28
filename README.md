@@ -25,9 +25,9 @@
 * [Screencasts](#screencasts)
 * [Talks](#talks)
 * [Style Guides](#style-guides)
-* [Third-party APIs](#third-party-apis)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
+* [Third-party APIs](#third-party-apis)
 * [Built with Rails](#built-with-rails)
 
 ---
@@ -207,6 +207,29 @@ Name | Access |From
 
 ---
 
+## Install Rails
+
+* [Install Ruby on Rails 5.0](http://railsapps.github.io/installing-rails.html) by [RailsApps](http://railsapps.github.io/)
+* [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/)
+* [GoRails](https://gorails.com/setup)
+* [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) by [Matt Brictson](https://mattbrictson.com/)
+
+> If you've run into issues with your installation and are desperately looking for something else to try, take a deep breath first and go back over the instructions step-by-step to make sure you've followed them properly. You can run into some odd issues if you start trying to mix together different installation recommendations, because some of them use auto-installers and have you install things in slightly different places so you may end up with a couple copies of key components. It may work fine on the surface, but some day it'll probably come back and frustrate you again.
+
+---
+
+## DevTools
+
+- [Atom](http://www.atom.io)
+  - [Atom Documentation](https://atom.io/docs)
+- [Sublime Text](http://www.sublimetext.com/)
+  - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
+  - [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
+- [RubyMine](https://www.jetbrains.com/ruby/)
+- [Vim](http://www.vim.org/)
+
+---
+
 ## Third-party APIs
 
 * [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
@@ -232,29 +255,6 @@ Name | Access |From
 * [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
-
----
-
-## Install Rails
-
-* [Install Ruby on Rails 5.0](http://railsapps.github.io/installing-rails.html) by [RailsApps](http://railsapps.github.io/)
-* [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/)
-* [GoRails](https://gorails.com/setup)
-* [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) by [Matt Brictson](https://mattbrictson.com/)
-
-> If you've run into issues with your installation and are desperately looking for something else to try, take a deep breath first and go back over the instructions step-by-step to make sure you've followed them properly. You can run into some odd issues if you start trying to mix together different installation recommendations, because some of them use auto-installers and have you install things in slightly different places so you may end up with a couple copies of key components. It may work fine on the surface, but some day it'll probably come back and frustrate you again.
-
----
-
-## DevTools
-
-- [Atom](http://www.atom.io)
-  - [Atom Documentation](https://atom.io/docs)
-- [Sublime Text](http://www.sublimetext.com/)
-  - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
-  - [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
-- [RubyMine](https://www.jetbrains.com/ruby/)
-- [Vim](http://www.vim.org/)
 
 ---
 

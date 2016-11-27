@@ -23,7 +23,6 @@
 * [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
-* [Style Guides](#style-guides)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
 * [Built with Rails](#built-with-rails)
@@ -185,15 +184,6 @@ Name | Access |From
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
 1. [GoRails](https://gorails.com/)
-
----
-
-## Style Guides
-
-- [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
-- [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
-- [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
-- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides)
 
 ---
 

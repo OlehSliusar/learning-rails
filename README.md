@@ -23,7 +23,6 @@
 * [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
-* [Talks](#talks)
 * [Style Guides](#style-guides)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
@@ -186,14 +185,6 @@ Name | Access |From
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
 1. [GoRails](https://gorails.com/)
-
----
-
-## Talks
-
-1. [The Best of RailsConf 2015](https://mattbrictson.com/best-of-railsconf-2015)
-1. [Railsconf 2014, Talks I Liked](http://nepalonrails.com/blog/2014/05/railsconf-2014-talks-i-liked)
-1. [Favorite talks of RailsConf 2013](http://blog.planetargon.com/entries/2013/5/31/favorite-talks-of-railsconf-2013)
 
 ---
 

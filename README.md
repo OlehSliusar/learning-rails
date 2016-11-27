@@ -27,7 +27,6 @@
 * [Style Guides](#style-guides)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
-* [Third-party APIs](#third-party-apis)
 * [Built with Rails](#built-with-rails)
 
 ---
@@ -227,34 +226,6 @@ Name | Access |From
   - [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
-
----
-
-## Third-party APIs
-
-* [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
-* [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
-* [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
-* [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs.
-* [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
-* [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
-* [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper.
-* [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
-* [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
-* [gmail](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
-* [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks.
-* [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
-* [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
-* [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
-* [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
-* [Pusher](https://github.com/pusher/pusher-gem) - Ruby server library for the Pusher API.
-* [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
-* [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
-* [Slack ruby gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
-* [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
-* [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
-* [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
-* [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
 
 ---
 

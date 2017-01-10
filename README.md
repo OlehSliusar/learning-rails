@@ -18,14 +18,11 @@
 * [Learn with Code](#learn-with-code)
 * [Code Challenges and Puzzles](#code-challenges-and-puzzles)
 * [Help](#help)
-* [Community](#community)
-* [News](#news)
 * [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
-* [Built with Rails](#built-with-rails)
 
 ---
 
@@ -141,34 +138,8 @@ Name | Access |From
 ## Help
 
 * [StackOverflow](http://stackoverflow.com/questions/tagged/ruby-on-rails)
-* [Chatroom (Browser-based IRC)](http://webchat.freenode.net/?channels=rubyonrails)
 * [Reddit](https://www.reddit.com/r/rails)
-
----
-
-## Community
-
-- [Ruby on Rails: Community](http://rubyonrails.org/community/)
-- [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
-- [Ruby Community](https://www.ruby-lang.org/en/community/)
-- [RubyFlow - The Ruby and Rails community linklog](http://www.rubyflow.com/)
-
----
-
-## News
-
-- [Riding Rails](http://weblog.rubyonrails.org/)
-- [Ruby Weekly](http://rubyweekly.com/)
-- [Ruby Flow](http://www.rubyflow.com/)
-
----
-
-## Stay Up to Date
-
-- [@rails](https://twitter.com/rails): The official Ruby on Rails Twitter account. Follow them if you want insight on release dates, and development.
-- [@rails_apps](https://twitter.com/rails_apps): Daniel Kehoe is posting new Rails example apps pretty often, pretty useful.
-- [@dhh](http://twitter.com/dhh): The creator of Ruby on Rails. Posts insight on new releases and various tips.
-- [@rbates](https://twitter.com/rbates): Producer of Railscasts, posts tips and tricks very often.
+* [Chatroom (Browser-based IRC)](http://webchat.freenode.net/?channels=rubyonrails)
 
 ---
 
@@ -207,47 +178,6 @@ Name | Access |From
   - [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
-
----
-
-## Built with Rails
-
-1. [Twitter](https://twitter.com/)
-1. [Github](https://github.com/)
-1. [Basecamp](https://basecamp.com/)
-1. [Shopify](http://www.shopify.com/)
-1. [Crunchbase](https://www.crunchbase.com/)
-1. [Slideshare](http://www.slideshare.net/)
-1. [AirBnb](https://www.airbnb.com/)
-1. [Groupon](http://www.groupon.com/)
-1. [SoundCloud](https://soundcloud.com/)
-1. [Square](https://squareup.com/)
-1. [Heroku](https://www.heroku.com/)
-1. [Yellow pages](http://www.yellowpages.com/)
-1. [Hulu](http://www.hulu.com/)
-1. [Urban Dictionary](http://www.urbandictionary.com/)
-1. [CrunchBase](https://www.crunchbase.com/)
-1. [Bloomberg](http://www.bloomberg.com/)
-1. [Zendesk](https://www.zendesk.com/)
-1. [Scribd](https://www.scribd.com/)
-1. [Bleacher Report](http://bleacherreport.com/)
-1. [500px](http://500px.com/)
-1. [Ask.fm](http://ask.fm/)
-1. [Dribbble](http://dribbble.com/)
-1. [Funny or Die](http://www.funnyordie.com/)
-1. [Goodreads](http://www.goodreads.com/)
-1. [Indiegogo](http://www.indiegogo.com/)
-1. [Kickstarter](http://www.kickstarter.com/)
-1. [LivingSocial](http://www.livingsocial.com/)
-1. [Lumosity](http://www.lumosity.com/)
-1. [MyFitnessPal](http://www.myfitnesspal.com/)
-1. [Pixlr](https://pixlr.com/)
-1. [Strava](https://www.strava.com/)
-1. [Twitch](http://twitch.tv/)
-1. [We Heart It](http://weheartit.com/)
-1. [Whitepages](http://www.whitepages.com/)
-1. [Yammer](https://www.yammer.com)
-1. [ThemeForest](http://themeforest.net/)
 
 ---
 

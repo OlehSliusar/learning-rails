@@ -18,7 +18,6 @@
 * [Learn with Code](#learn-with-code)
 * [Code Challenges and Puzzles](#code-challenges-and-puzzles)
 * [Help](#help)
-* [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
 * [Install Rails](#install-rails)

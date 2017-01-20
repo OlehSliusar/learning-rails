@@ -25,7 +25,7 @@
 
 ---
 
-#### If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's a free online curriculum, from zero to getting hired.
+#### If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to getting hired.
 
 <br>
 

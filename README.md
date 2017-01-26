@@ -7,12 +7,16 @@
 
 <br>
 
+---
+
 ## [MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 **[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
 
 [<img src="https://freecodecamp.github.io/design-style-guide/downloads/freeCodeCamp-alternative.png" width="350" alt="freeCodeCamp">](https://www.freecodecamp.com/)
 
 <br>
+
+---
 
 ## Ruby on [<img src="http://rubyonrails.org/images/rails-logo.svg" width="140" alt="Rails">](http://rubyonrails.org/)
 

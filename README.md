@@ -13,19 +13,13 @@
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
 * [Videos](#videos)
-* [Tutorials](#tutorials)
-* [Courses](#courses)
-* [Learn with Code](#learn-with-code)
 * [Code Challenges and Puzzles](#code-challenges-and-puzzles)
-* [Help](#help)
-* [Podcasts](#podcasts)
-* [Screencasts](#screencasts)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
 
 ---
 
-#### If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to getting hired.
+#### If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to employable as a web developer.
 
 <br>
 
@@ -95,65 +89,11 @@ Name | From | Access
 
 ---
 
-## Tutorials
-
-1. [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
-1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
-1. [SaaS Course - The welcome word - Prograils](https://prograils.com/courses/saas/ch/01-the-welcome-word)
-1. [Facebook Authentication in Ruby on Rails](https://richonrails.com/articles/facebook-authentication-in-ruby-on-rails)
-1. [Google Authentication in Ruby On Rails](https://richonrails.com/articles/google-authentication-in-ruby-on-rails)
-1. [Gmail Like Chat Application in Ruby on Rails](http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails)
-1. [Private Inbox System in Rails with Mailboxer](http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer)
-
----
-
-## Courses
-Name | Access |From
-:--  | :--:   |:--:
-[Web Application Development: Basic Concepts][clwa]|Mostly Free|[Coursera][c]
-
----
-
-## Learn with Code
-
-1. [RailsApps Example Applications](http://railsapps.github.io/) - Code from the [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
-1. [Treebook](https://github.com/jasonseifer/treebook) - A social networking web application with features similar to Facebook.
-1. [Socify](https://github.com/sudharti/socify) - Socify is an open source social networking platform written in Ruby on Rails.
-1. [Sample App](https://github.com/mhartl/sample_app_3rd_edition) - The sample app for the 3rd edition of the Ruby on Rails Tutorial.
-1. [Pinteresting](https://github.com/onemonthrails/pinteresting) - This is the pinteresting sample application for One Month Rails
-1. [MyRecipes](https://github.com/railsudemycourse/myrecipes) -A recipe app written in Ruby on Rails.
-1. [Learn Ruby with the Edgecase Ruby Koans][rk] by [Jim Weirich](https://twitter.com/jimweirich)
-
----
-
 ## Code Challenges and Puzzles
 
 * [HackerRank](https://www.hackerrank.com/domains/ruby)
 * [CodeWars](https://www.codewars.com/)
 * [Exercisme.io](http://exercism.io/languages/ruby)
-
----
-
-## Help
-
-* [StackOverflow](http://stackoverflow.com/questions/tagged/ruby-on-rails)
-* [Reddit](https://www.reddit.com/r/rails)
-* [Chatroom (Browser-based IRC)](http://webchat.freenode.net/?channels=rubyonrails)
-
----
-
-## Podcasts
-
-- [Ruby5](https://ruby5.codeschool.com/)
-- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
-- [5by5](http://5by5.tv/rubyonrails)
-
----
-
-## Screencasts
-
-1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
-1. [GoRails](https://gorails.com/)
 
 ---
 
@@ -174,9 +114,7 @@ Name | Access |From
   - [Atom Documentation](https://atom.io/docs)
 - [Sublime Text](http://www.sublimetext.com/)
   - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
-  - [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
-- [Vim](http://www.vim.org/)
 
 ---
 
@@ -187,9 +125,6 @@ Name | Access |From
 <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
-<br />
-This work (<span property="dct:title">Learning Ruby on Rails</span>), identified by <a href="http://olehsliusar.com/" rel="dct:publisher"><span property="dct:title">Oleh Sliusar</span></a>, is free of known copyright restrictions.
-</p>
 
 <!-- links -->
 

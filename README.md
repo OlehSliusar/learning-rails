@@ -1,13 +1,13 @@
 # Learning Web Development
-First you have to choose: Rails stack or MEAN stack.
+**First you have to choose: Rails stack or MEAN stack.**
 
-If you don't know what to choose -- toss a coin.
+**If you don't know what to choose -- toss a coin.**
 
-If you don't want to decide by tossing coin -- choose MEAN (JavaScript).
+**If you don't want to decide by tossing coin -- choose MEAN (JavaScript).**
 
 <br>
 
-## MEAN
+## [MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 **[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
 
 [<img src="https://freecodecamp.github.io/design-style-guide/downloads/freeCodeCamp-alternative.png" width="350" alt="freeCodeCamp">](https://www.freecodecamp.com/)
@@ -18,6 +18,13 @@ If you don't want to decide by tossing coin -- choose MEAN (JavaScript).
 
 > New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html). 
 
+**If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to employable as a web developer.**
+
+[<img src="https://lh3.googleusercontent.com/Wkn0IUCegqQlDEw1_sFOlja1OJcvqFOocIAtXIeR3SqLRyLwTh4VtreTUbNSPA0lQpuq9YE1kVarFblFVxFOnxUUcw_Taptj9E6RW_U_6FSsHVejL7Vg1ubZ9TnD8D_U8wOBGdM" align="center" width="340" alt="Rails">](http://www.theodinproject.com/)
+
+<br>
+
+---
 ## Table of Contents
 
 * [Interactive Tutorials](#interactive-tutorials)
@@ -30,14 +37,6 @@ If you don't want to decide by tossing coin -- choose MEAN (JavaScript).
 * [Code Challenges and Puzzles](#code-challenges-and-puzzles)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
-
----
-
-**If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to employable as a web developer.**
-
-[<img src="https://lh3.googleusercontent.com/Wkn0IUCegqQlDEw1_sFOlja1OJcvqFOocIAtXIeR3SqLRyLwTh4VtreTUbNSPA0lQpuq9YE1kVarFblFVxFOnxUUcw_Taptj9E6RW_U_6FSsHVejL7Vg1ubZ9TnD8D_U8wOBGdM" align="center" width="340" alt="Rails">](http://www.theodinproject.com/)
-
-<br>
 
 ---
 

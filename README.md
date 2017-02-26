@@ -5,6 +5,8 @@
 
 **If you don't want to decide by tossing coin -- choose MEAN (JavaScript).**
 
+**Or, [Start Here](http://starthere.fm/)**
+
 <br>
 
 ---

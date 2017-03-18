@@ -70,31 +70,31 @@ Name | From | Access
 ## Books
 
 ### Beginner
-1. [Developer Fundamentals][lewdf] by [Learn Enough][lea] (+Screencasts)
-1. [Learn to Program](https://pine.fm/LearnToProgram/)
-1. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
-1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
-1. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
-1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
-1. [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
-1. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-1. [Ruby on Rails Guides](http://guides.rubyonrails.org/) by [Rails Community](http://guides.rubyonrails.org/credits.html)
-1. [Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+- [Developer Fundamentals][lewdf] by [Learn Enough][lea] (+Screencasts)
+- [Learn to Program](https://pine.fm/LearnToProgram/)
+- [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+- [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+- [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
+- [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
+- [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+- [Ruby on Rails Guides](http://guides.rubyonrails.org/) by [Rails Community](http://guides.rubyonrails.org/credits.html)
+- [Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
 
 ### Intermediate
 
-1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
-1. [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist)
-1. [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
+- [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
+- [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist)
+- [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
 
 ### Advanced
 
-1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-1. [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby)
-1. [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
-1. [The Rails 5 Way](https://leanpub.com/tr5w)
-1. [Eloquent Ruby](http://eloquentruby.com/)
-1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
+- [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+- [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby)
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
+- [The Rails 5 Way](https://leanpub.com/tr5w)
+- [Eloquent Ruby](http://eloquentruby.com/)
+- [Design Patterns in Ruby](http://designpatternsinruby.com/)
 
 ---
 

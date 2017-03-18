@@ -157,7 +157,7 @@ Name | From | Access
 [clwa]: https://www.coursera.org/learn/web-app
 [cs]: https://www.codeschool.com/
 [lea]: https://www.learnenough.com/about/
-[lewdf]: https://www.learnenough.com/web-development-fundamentals/
+[lewdf]: https://www.learnenough.com/tutorials
 [ls]: http://launchschool.com/railstutorial/
 [om]: https://onemonth.com/
 [omcomr]: https://onemonth.com/courses/one-month-rails/

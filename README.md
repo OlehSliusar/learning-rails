@@ -39,7 +39,6 @@
 * [Videos](#videos)
 * [Code Challenges and Puzzles](#code-challenges-and-puzzles)
 * [Install Rails](#install-rails)
-* [DevTools](#devtools)
 
 ---
 
@@ -101,16 +100,6 @@ Name | From | Access
 * [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) by [Matt Brictson](https://mattbrictson.com/)
 
 > If you've run into issues with your installation and are desperately looking for something else to try, take a deep breath first and go back over the instructions step-by-step to make sure you've followed them properly. You can run into some odd issues if you start trying to mix together different installation recommendations, because some of them use auto-installers and have you install things in slightly different places so you may end up with a couple copies of key components. It may work fine on the surface, but some day it'll probably come back and frustrate you again.
-
----
-
-## DevTools
-
-- [Atom](http://www.atom.io)
-  - [Atom Documentation](https://atom.io/docs)
-- [Sublime Text](http://www.sublimetext.com/)
-  - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
-- [RubyMine](https://www.jetbrains.com/ruby/)
 
 <!-- links -->
 

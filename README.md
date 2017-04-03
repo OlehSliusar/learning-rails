@@ -112,16 +112,6 @@ Name | From | Access
   - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 
----
-
-### License
-
-<p xmlns:dct="http://purl.org/dc/terms/">
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
-
 <!-- links -->
 
 [b]: https://www.bloc.io/

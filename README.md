@@ -3,9 +3,7 @@
 
 **If you don't know what to choose -- toss a coin.**
 
-**If you don't want to decide by tossing coin -- choose MEAN (JavaScript).**
-
-**Or, [Start Here](http://starthere.fm/)**
+**If you don't want to decide by tossing coin -- [watch this video](https://www.youtube.com/watch?v=1lU1FtIQz8c)**
 
 <br>
 

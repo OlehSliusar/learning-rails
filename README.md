@@ -76,7 +76,6 @@ Name | By | Access
 :--  | :--  | :--:
 [Top Developer Training](https://pragmaticstudio.com/refs/railstutorial)|[The Pragmatic Studio](https://pragmaticstudio.com/about) | Paid
 [Learn Rails Development][tthtrd] |[Treehouse][tth] | Paid
-[Rails Courses](https://mackenziechild.me/rails-courses/) | [Mackenzie Child](https://mackenziechild.me/) | Free
 
 ---
 

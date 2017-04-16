@@ -41,7 +41,7 @@
 ---
 
 ## Interactive Tutorials
-Name | From | Access
+Name | By | Access
 :--  | :--  | :--:
 [Learn Ruby](https://www.codeschool.com/learn/ruby) | [CodeSchool][cs] | Mostly Paid
 [Ruby](https://www.codecademy.com/tracks/ruby) | [Codecademy][cc] | Mostly Free
@@ -50,7 +50,7 @@ Name | From | Access
 ---
 
 ## Bootcamps & Mentorship
-Name | From | Access
+Name | By | Access
 :--  | :--  | :--:
 [Become a Web Developer][vcs] | [Viking Code School][vcst] | Mostly Paid
 [Online Programming Bootcamp for Serious Web Developers][ls] | [Launch School][ls] | Paid
@@ -72,13 +72,11 @@ Name | From | Access
 
 ## Videos
 
-Name | From | Access
+Name | By | Access
 :--  | :--  | :--:
 [Top Developer Training](https://pragmaticstudio.com/refs/railstutorial)|[The Pragmatic Studio](https://pragmaticstudio.com/about) | Paid
 [Learn Rails Development][tthtrd] |[Treehouse][tth] | Paid
 [Rails Courses](https://mackenziechild.me/rails-courses/) | [Mackenzie Child](https://mackenziechild.me/) | Free
-[One Month Rails][omcomr] | [One Month][om] | Paid
-[Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | [edX](https://www.edx.org/) | Free
 
 ---
 

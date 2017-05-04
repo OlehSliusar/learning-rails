@@ -29,7 +29,7 @@
 <br>
 
 ---
-## Table of Contents
+### Other options
 
 * [Interactive Tutorials](#interactive-tutorials)
 * [Bootcamps & Mentorship](#bootcamps--mentorship)
@@ -40,7 +40,7 @@
 
 ---
 
-## Interactive Tutorials
+#### Interactive Tutorials
 Name | By | Access
 :--  | :--  | :--:
 [Learn Ruby](https://www.codeschool.com/learn/ruby) | [CodeSchool][cs] | Mostly Paid
@@ -49,7 +49,7 @@ Name | By | Access
 
 ---
 
-## Bootcamps & Mentorship
+#### Bootcamps & Mentorship
 Name | By | Access
 :--  | :--  | :--:
 [Become a Web Developer][vcs] | [Viking Code School][vcst] | Mostly Paid
@@ -61,7 +61,7 @@ Name | By | Access
 
 ---
 
-## Books for Beginners
+#### Books for Beginners
 - [Developer Fundamentals][lewdf] by [Learn Enough][lea] (+Screencasts)
 - [Learn to Program](https://pine.fm/LearnToProgram/)
 - [Beginning Ruby](http://www.apress.com/la/book/9781484212790)
@@ -70,7 +70,7 @@ Name | By | Access
 
 ---
 
-## Videos
+#### Videos
 
 Name | By | Access
 :--  | :--  | :--:
@@ -79,7 +79,7 @@ Name | By | Access
 
 ---
 
-## Code Challenges and Puzzles
+#### Code Challenges and Puzzles
 
 * [HackerRank](https://www.hackerrank.com/domains/ruby)
 * [CodeWars](https://www.codewars.com/)
@@ -87,7 +87,7 @@ Name | By | Access
 
 ---
 
-## Install Rails
+#### Install Rails
 
 * [Install Ruby on Rails 5.0](http://railsapps.github.io/installing-rails.html) by [RailsApps](http://railsapps.github.io/)
 * [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/)

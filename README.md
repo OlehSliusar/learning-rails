@@ -22,7 +22,7 @@
 
 > New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html).
 
-**If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to employable as a web developer.**
+**If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top].**
 
 [<img src="https://lh3.googleusercontent.com/Wkn0IUCegqQlDEw1_sFOlja1OJcvqFOocIAtXIeR3SqLRyLwTh4VtreTUbNSPA0lQpuq9YE1kVarFblFVxFOnxUUcw_Taptj9E6RW_U_6FSsHVejL7Vg1ubZ9TnD8D_U8wOBGdM" align="center" width="540" alt="The Odin Project">](http://www.theodinproject.com/)
 

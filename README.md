@@ -9,7 +9,7 @@
 
 ---
 
-## [MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
+## [MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 **[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
 
 [<img src="https://freecodecamp.github.io/design-style-guide/downloads/freeCodeCamp-alternative.png" width="450" alt="freeCodeCamp">](https://www.freecodecamp.com/)
@@ -86,15 +86,6 @@ Name | By | Access
 * [Exercisme.io](http://exercism.io/languages/ruby)
 
 ---
-
-#### Install Rails
-
-* [Install Ruby on Rails 5.0](http://railsapps.github.io/installing-rails.html) by [RailsApps](http://railsapps.github.io/)
-* [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/)
-* [GoRails](https://gorails.com/setup)
-* [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) by [Matt Brictson](https://mattbrictson.com/)
-
-> If you've run into issues with your installation and are desperately looking for something else to try, take a deep breath first and go back over the instructions step-by-step to make sure you've followed them properly. You can run into some odd issues if you start trying to mix together different installation recommendations, because some of them use auto-installers and have you install things in slightly different places so you may end up with a couple copies of key components. It may work fine on the surface, but some day it'll probably come back and frustrate you again.
 
 <!-- links -->
 

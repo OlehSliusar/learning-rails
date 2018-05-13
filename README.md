@@ -1,9 +1,7 @@
 # Learning Web Development
 **First you have to choose: Rails, Javascipt, or Python.**
 
-**If you don't know what to choose -- toss a coin.**
-
-**If you don't want to decide by tossing coin -- [watch this video](https://www.youtube.com/watch?v=1lU1FtIQz8c)**
+**If you don't know what to choose -- [watch this video](https://www.youtube.com/watch?v=1lU1FtIQz8c)**
 
 <br>
 

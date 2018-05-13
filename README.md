@@ -1,5 +1,5 @@
 # Learning Web Development
-**First you have to choose: Rails stack or Javascipt stack.**
+**First you have to choose: Rails, Javascipt, or Python.**
 
 **If you don't know what to choose -- toss a coin.**
 

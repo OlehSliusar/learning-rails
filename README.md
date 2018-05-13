@@ -9,7 +9,7 @@
 
 ---
 
-## [MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
+## [Javascript (MEAN Stack)](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 **[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
 
 [<img src="https://freecodecamp.github.io/design-style-guide/downloads/freeCodeCamp-alternative.png" width="450" alt="freeCodeCamp">](https://www.freecodecamp.com/)

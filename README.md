@@ -1,5 +1,5 @@
 # Learning Web Development
-**First you have to choose: Rails stack or MEAN stack.**
+**First you have to choose: Rails stack or Javascipt stack.**
 
 **If you don't know what to choose -- toss a coin.**
 

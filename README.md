@@ -1,17 +1,13 @@
 # Learning Web Development
-**First you have to choose: Rails stack or MEAN stack.**
+**First you have to choose: Rails, Javascipt, or Python.**
 
-**If you don't know what to choose -- toss a coin.**
-
-**If you don't want to decide by tossing coin -- choose MEAN (JavaScript).**
-
-**Or, [Start Here](http://starthere.fm/)**
+**If you don't know what to choose -- [watch this video](https://www.youtube.com/watch?v=1lU1FtIQz8c)**
 
 <br>
 
 ---
 
-## [MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
+## [Javascript (MEAN Stack)](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 **[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
 
 [<img src="https://freecodecamp.github.io/design-style-guide/downloads/freeCodeCamp-alternative.png" width="450" alt="freeCodeCamp">](https://www.freecodecamp.com/)
@@ -24,14 +20,14 @@
 
 > New to Rails? See [What is Ruby on Rails](http://railsapps.github.io/what-is-ruby-rails.html).
 
-**If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top]. It's free online curriculum, from zero to employable as a web developer.**
+**If you're starting from scratch or have no idea what to choose, I highly recommend you go to [The Odin Project][top].**
 
 [<img src="https://lh3.googleusercontent.com/Wkn0IUCegqQlDEw1_sFOlja1OJcvqFOocIAtXIeR3SqLRyLwTh4VtreTUbNSPA0lQpuq9YE1kVarFblFVxFOnxUUcw_Taptj9E6RW_U_6FSsHVejL7Vg1ubZ9TnD8D_U8wOBGdM" align="center" width="540" alt="The Odin Project">](http://www.theodinproject.com/)
 
 <br>
 
 ---
-## Table of Contents
+### Other options
 
 * [Interactive Tutorials](#interactive-tutorials)
 * [Bootcamps & Mentorship](#bootcamps--mentorship)
@@ -39,12 +35,11 @@
 * [Videos](#videos)
 * [Code Challenges and Puzzles](#code-challenges-and-puzzles)
 * [Install Rails](#install-rails)
-* [DevTools](#devtools)
 
 ---
 
-## Interactive Tutorials
-Name | From | Access
+#### Interactive Tutorials
+Name | By | Access
 :--  | :--  | :--:
 [Learn Ruby](https://www.codeschool.com/learn/ruby) | [CodeSchool][cs] | Mostly Paid
 [Ruby](https://www.codecademy.com/tracks/ruby) | [Codecademy][cc] | Mostly Free
@@ -52,8 +47,8 @@ Name | From | Access
 
 ---
 
-## Bootcamps & Mentorship
-Name | From | Access
+#### Bootcamps & Mentorship
+Name | By | Access
 :--  | :--  | :--:
 [Become a Web Developer][vcs] | [Viking Code School][vcst] | Mostly Paid
 [Online Programming Bootcamp for Serious Web Developers][ls] | [Launch School][ls] | Paid
@@ -64,7 +59,7 @@ Name | From | Access
 
 ---
 
-## Books for Beginners
+#### Books for Beginners
 - [Developer Fundamentals][lewdf] by [Learn Enough][lea] (+Screencasts)
 - [Learn to Program](https://pine.fm/LearnToProgram/)
 - [Beginning Ruby](http://www.apress.com/la/book/9781484212790)
@@ -73,54 +68,22 @@ Name | From | Access
 
 ---
 
-## Videos
+#### Videos
 
-Name | From | Access
+Name | By | Access
 :--  | :--  | :--:
 [Top Developer Training](https://pragmaticstudio.com/refs/railstutorial)|[The Pragmatic Studio](https://pragmaticstudio.com/about) | Paid
 [Learn Rails Development][tthtrd] |[Treehouse][tth] | Paid
-[Rails Courses](https://mackenziechild.me/rails-courses/) | [Mackenzie Child](https://mackenziechild.me/) | Free
-[One Month Rails][omcomr] | [One Month][om] | Paid
-[Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | [edX](https://www.edx.org/) | Free
 
 ---
 
-## Code Challenges and Puzzles
+#### Code Challenges and Puzzles
 
 * [HackerRank](https://www.hackerrank.com/domains/ruby)
 * [CodeWars](https://www.codewars.com/)
 * [Exercisme.io](http://exercism.io/languages/ruby)
 
 ---
-
-## Install Rails
-
-* [Install Ruby on Rails 5.0](http://railsapps.github.io/installing-rails.html) by [RailsApps](http://railsapps.github.io/)
-* [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/)
-* [GoRails](https://gorails.com/setup)
-* [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) by [Matt Brictson](https://mattbrictson.com/)
-
-> If you've run into issues with your installation and are desperately looking for something else to try, take a deep breath first and go back over the instructions step-by-step to make sure you've followed them properly. You can run into some odd issues if you start trying to mix together different installation recommendations, because some of them use auto-installers and have you install things in slightly different places so you may end up with a couple copies of key components. It may work fine on the surface, but some day it'll probably come back and frustrate you again.
-
----
-
-## DevTools
-
-- [Atom](http://www.atom.io)
-  - [Atom Documentation](https://atom.io/docs)
-- [Sublime Text](http://www.sublimetext.com/)
-  - [Sublime Text 3 Documentation](https://www.sublimetext.com/docs/3/)
-- [RubyMine](https://www.jetbrains.com/ruby/)
-
----
-
-### License
-
-<p xmlns:dct="http://purl.org/dc/terms/">
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
 
 <!-- links -->
 
